@@ -6,7 +6,8 @@
   "population_orp": 18433,
 
   "time_distance": {
-    "rail": [{"TP":  19}, {"RD":  45}],
+    "rail": [{"TP":  19}, {"RD":  45}, {"BL": 38}, {"MO": 52}, {"CH":  85},
+      {"KD" : 105 }, {"DC":  26}],
     "road": [{"TP": 22}]
   },
 
