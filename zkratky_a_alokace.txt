@@ -1,0 +1,16 @@
+Bílina: BL: Hranička
+Děčín: DV: Sergey
+Chomutov: CH: Amir
+Kadaň: KD: Aida
+Litoměřice: LT: Kostyk
+Litvínov: LI: Sergei
+Louny: LN: Darina
+Lovosice: LV: Nik
+Most: MO: Alnahari
+Podbořany: PD: Thomas
+Roudnice nad Labem: RD
+Rumburk: RM: Jančařík
+Teplice: TP: Hlib
+Ústí nad Labem: UL: Fišer
+Varnsdorf: VR
+Žatec: ZT
